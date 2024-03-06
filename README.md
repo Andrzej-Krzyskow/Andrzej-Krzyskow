@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Andrzej Krzyśków</h1>
-<h3 align="center">I'm a continuously learning, tech enthusiast. Passionate about embracing new technologies and evolving as a developer."</h3>
+<h3 align="center">I'm a continuously learning, tech enthusiast. Passionate about embracing new technologies and evolving as a developer.</h3>
 
 <h3 align="center">I’m currently working at Sollers Consulting</h3>
 
